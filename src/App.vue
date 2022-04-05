@@ -1,8 +1,13 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
+   
     <Title/>
+  <div>
+   <img class="Hero" alt="Vue logo" src="./assets/logo.png">
   </div>
+  </div>
+  
 </template>
 
 <script>
