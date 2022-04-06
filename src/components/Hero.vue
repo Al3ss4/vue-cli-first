@@ -1,16 +1,14 @@
 <template>
   <div class="hello">
-    La mia prima app con Vue CLI!
+    <h2>sono hero</h2>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
-}
+  name: "HeroComponent",
+  
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
